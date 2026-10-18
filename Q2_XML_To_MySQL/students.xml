@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Vaishnavi Patel</name>
+        <email>vaishnavi@gmail.com</email>
+        <course>MSC(ICT)</course>
+    </student>
+    <student>
+        <name>om Patel</name>
+        <email>om@gmail.com</email>
+        <course>MSC(IT)</course>
+    </student>
+    <student>
+        <name>prachi Patel</name>
+        <email>prachi@gmail.com</email>
+        <course>BCA</course>
+    </student>
+    <student>
+        <name>Amit Joshi</name>
+        <email>amit@gmail.com</email>
+        <course>BSc IT</course>
+    </student>
+
+</students>
